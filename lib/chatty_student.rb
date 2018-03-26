@@ -6,7 +6,16 @@ class ChattyStudent < Student
   end
 
   def raise_hand
-    [0..9].each { |x| super }
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
   end
 
 end
